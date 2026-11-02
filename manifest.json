@@ -1,0 +1,20 @@
+{
+  "name": "Jarvis · Assistente Pessoal",
+  "short_name": "Jarvis",
+  "description": "Assistente de voz com tarefas, lembretes e notas",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02070d",
+  "theme_color": "#02070d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
